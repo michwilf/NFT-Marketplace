@@ -2,7 +2,7 @@
 
 Description:
 
--React NFT-Marketplace built using javascript, solidity, and bootstrap CSS. 
+-React NFT-Marketplace built using javascript, solidity, and TailwindCSS. 
 
 Video Summary:
 
